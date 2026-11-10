@@ -4,6 +4,6 @@
   "private": true,
   "description": "Extensible pixel pets for DeepSeek Harness, with orange and Siamese cats.",
   "scripts": {
-    "check": "node --check packages/pixel-cat-companion/index.js && node --check packages/pixel-cat-companion/client.js && node --check packages/pixel-cat-assets/index.js && node --check packages/pixel-cat-assets/client.js && node --check packages/pixel-siamese-assets/index.js && node --check packages/pixel-siamese-assets/client.js"
+    "check": "node --check packages/pixel-companion/index.js && node --check packages/pixel-companion/client.js && node --test tests/*.test.js"
   }
 }

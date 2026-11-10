@@ -1,8 +1,8 @@
 {
-  "name": "@local/pixel-cat-companion",
+  "name": "@local/pixel-companion",
   "version": "1.0.0",
   "private": true,
-  "description": "Extensible pixel-character companion engine with a separately replaceable cat asset pack.",
+  "description": "Pixel companions with built-in orange and Siamese cats, character switching, roaming, jumping, sleeping, and dragging.",
   "type": "module",
   "exports": {
     ".": "./index.js",
