@@ -1,0 +1,3 @@
+- insert:
+    - id: pixel-cat-companion
+      name: '@local/pixel-cat-companion'

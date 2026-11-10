@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Pixel Cat Companion",
+    "description": "An extensible pixel-character engine with roaming, text-line jumps, gap sleeping, and mouse dragging. The default cat is supplied by a separately replaceable character pack."
+  }
+}

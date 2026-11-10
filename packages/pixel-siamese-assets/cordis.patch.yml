@@ -1,0 +1,3 @@
+- insert:
+    - id: pixel-siamese-assets
+      name: '@local/pixel-siamese-assets'
